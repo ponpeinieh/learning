@@ -1,3 +1,19 @@
+// Style for the banner container
+.banner {
+  text-align: center; /* Center the content horizontally */
+  margin-bottom: 20px; /* Add some space below the banner */
+}
+
+// Style for the banner image
+.banner img {
+  max-width: 100%; /* Ensure the image does not exceed its container */
+}
+
+.logo-footer {
+  position: absolute;
+  bottom: 10px; /* Adjust the distance from the bottom as needed */
+  left: 20px; /* Adjust the distance from the left as needed */
+}
 /**
  * Site header
  */
