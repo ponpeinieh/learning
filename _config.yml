@@ -35,6 +35,16 @@ plugins:
   - jekyll-seo-tag
 header_pages:
   - about.markdown
+  - programs.markdown
+  - curriculum.markdown
+  - testimonials.markdown
+  - faq.markdown
+  - resources.markdown
+  - contact.markdown
+  - blog.markdown
+  - gallery.markdown
+  - events.markdown
+  - partnerships.markdown
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:

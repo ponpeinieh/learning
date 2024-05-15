@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 關於工作室
+title: 簡介
 permalink: /about/
 ---
 

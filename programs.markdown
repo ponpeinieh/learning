@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 課程項目
+title: 課程
 ---
 
 課程：

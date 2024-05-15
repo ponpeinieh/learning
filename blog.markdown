@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 部落格/新聞
+title: 部落格
 ---
 
 部落格/新聞：
