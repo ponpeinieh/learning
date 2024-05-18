@@ -5,7 +5,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ site.baseurl }}/assets/images/APCS_en2.png" />
+      <img src="{{ "/assets/images/APCS_en2.png" | relative_url }}" />
     </a>
 
     {%- if titles_size > 0 -%}
@@ -32,5 +32,5 @@
   </div>
 </header>
 <div class="banner">
-  <img src="{{ site.baseurl }}/assets/images/banner.png" alt="Banner Image">
+  <img src="{{ "/assets/images/banner.png"| relative_url }}" alt="Banner Image">
 </div>

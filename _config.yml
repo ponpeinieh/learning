@@ -61,9 +61,10 @@ minima:
 
   # Generate social links in footer.
   social_links:
+    - { platform: facebook,       user_url: "https://www.facebook.com/groups/824022176196285/" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/channel/UC8FFtzUAilehzTkpOt0wuvA" }
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    - { platform: facebook,       user_url: "https://www.facebook.com/groups/824022176196285/" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #  - { platform: github,         user_url: "https://github.com/jekyll/minima" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
@@ -77,8 +78,6 @@ minima:
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
-  #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
