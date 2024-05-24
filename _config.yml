@@ -98,3 +98,17 @@ minima:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Use collections
+# Documents (the items in a collection) live in a folder in the root of 
+# the site named _*collection_name*. In this case, _courses
+# Create a document for each course: _courses/scratch.md, minecraft.md, c_language.md, ...
+# By default, collections do not output a page for documents. In this case we want each 
+# course to have their own page so let’s tweak the collection configuration.
+# Open _config.yml and add output: true to the course collection configuration
+# You can link to the output page using course.url.
+# Just like posts you’ll need to create a layout for courses.
+
+collections:
+  courses:
+    output: true
