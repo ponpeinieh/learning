@@ -1,0 +1,35 @@
+- name: 連子傑
+  email: zenzenjay@yahoo.com.tw
+  courses: C/C++
+  rating: 5
+  comment: >
+    課程設計很有條理，學習起來很順利。每節課都有明確的學習目標和步驟，讓我們能夠循序漸進地掌握知識，不會感到迷茫。
+  photo: /uploads/JayLian.jpeg
+- name: 劉新柏
+  email: xin32051875@gmail.com
+  courses: C/C++, Java, Python
+  rating: 5
+  comment: >
+    老師的授課讓我受益良多，還會準備很多習題讓學生們回家練習，教學仔細，真的是不可多得的好老師。
+  photo: /uploads/crocodile.png
+- name: 戴友霞
+  email: valeriedaihb@gmail.com
+  courses: Java
+  rating: 5
+  comment: >
+    教師準備充分，課程內容很有深度。每次上課都能感受到教師的專業和用心，讓我能夠學到豐富的知識和技能。
+  photo: /uploads/crocodile.png
+- name: 劉瑾謙
+  email: lago1432.jp@gmail.com
+  courses: C/C++, Python
+  rating: 5
+  comment: >
+    教師對待學生很尊重，讓我們感到很舒適。不論是課堂上的提問還是課後的輔導，教師都能夠給予我們充分的尊重和關心。
+  photo: /uploads/crocodile.png
+- name: 邱昱閔
+  email: a35124768a@gmail.com
+  courses: Python
+  rating: 5
+  comment: >
+    教師非常友善，讓我們感到很親切。無論是課堂上還是課後，教師都能夠給予我們充分的關心和幫助，讓我們感到非常親切和溫暖。
+  photo: /uploads/玉米Corn.jpg

@@ -5,3 +5,57 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+  .feedback-container {
+    width: 80%;
+    margin: auto;
+  }
+  .feedback-entry {
+    margin-bottom: 2rem;
+  }
+  .photo-and-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  .feedback-photo {
+    width: 30%;
+    margin-right: 2rem;
+  }
+  .feedback-photo img {
+    max-width: 100%;
+    height: auto;
+  }
+  .feedback-details {
+    width: 65%;
+  }
+  .stars {
+    color: gold;
+    font-size: 1.5rem;
+  }
+
+  .contact-container {
+    width: 80%;
+    margin: auto;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .contact-container h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  .contact-info p {
+    margin: 0.5rem 0;
+  }
+  .map {
+    text-align: center;
+    margin: 1rem 0;
+  }
+  .map img {
+    max-width: 100%;
+    height: auto;
+  }
+  .google-form {
+    margin-top: 2rem;
+  }
