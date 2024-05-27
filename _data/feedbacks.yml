@@ -11,13 +11,13 @@
   rating: 5
   comment: >
     老師的授課讓我受益良多，還會準備很多習題讓學生們回家練習，教學仔細，真的是不可多得的好老師。
-  photo: /uploads/crocodile.png
+  photo: /uploads/xinbo.jpg
 - name: 戴友霞
   email: valeriedaihb@gmail.com
   courses: Java
   rating: 5
   comment: >
-    聶老師準備充分，課程內容很有深度。每次上課都能感受到他的專業和用心，讓我能夠學到豐富的知識和技能。
+    課程內容稍微有點難，但聶老師講解得很詳細。即使有些部分比較複雜，老師也會耐心地拆解，逐步引導我們理解和掌握。
   photo: /uploads/crocodile.png
 - name: 劉瑾謙
   email: lago1432.jp@gmail.com
@@ -47,3 +47,10 @@
   comment: >
     老師在課堂上對學生很尊重，上課時感覺很愉快。不論是課堂上碰到的問題或是課後作業，老師都花時間與耐心輔助我們解決。
   photo: /uploads/crocodile.png
+- name: 陳雅伶
+  email: liguangchen003@gmail.com
+  courses: Java
+  rating: 5
+  comment: >
+    聶老師準備充分，課程內容很有深度。每次上課都能感受到他的專業和用心，讓我能夠學到豐富的知識和技能。
+  photo: /uploads/LiguangChen.png

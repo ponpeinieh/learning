@@ -40,11 +40,11 @@ header_pages:
   - testimonials.markdown
   - faq.markdown
   - resources.markdown
-  - contact.markdown
   - blog.markdown
   - gallery.markdown
   - events.markdown
-  - partnerships.markdown
+  - contact.markdown
+#  - partnerships.markdown
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -112,3 +112,6 @@ minima:
 collections:
   courses:
     output: true
+  events:
+    output: true
+    permalink: events/:title

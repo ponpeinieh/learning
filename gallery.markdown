@@ -1,19 +1,21 @@
 ---
 layout: default
-title: 工作室剪影
+title: 剪影
 ---
+
 <div class="gallery-container">
-  <h2>工作室剪影</h2>
-  <div class="gallery-row">
+  <h2>剪影</h2>
+  
     {% for photo in site.data.gallery.photos %}
-      <div class="gallery-column">
+    <div class="row">
+      <div class="column">
         <img src="{{ site.baseurl }}/assets/images/{{ photo.src }}" alt="{{ photo.alt }}">
         <h3>{{ photo.title }}</h3>
-        <p>{{ photo.description }}</p>
+         {% if photo.description %}
+          <p>{{ photo.description }}</p>
+        {% endif %}
       </div>
-      {% if forloop.index0 | modulo: 2 == 1 and forloop.index0 != forloop.length - 1 %}
-        </div><div class="gallery-row">
-      {% endif %}
+    </div>
     {% endfor %}
-  </div>
+  
 </div>
