@@ -10,8 +10,8 @@ permalink: /aboutme/
 
 | **學歷**                                      |
 | --------------------------------------------- |
-| **國立清華大學** - 化學學士                      |
-| **英國曼徹斯特大學** - 化學博士                  |
+| **國立清華大學** - 化學學士                     |
+| **英國曼徹斯特大學** - 化學博士                 |
 
 | **經歷**                                      |
 | --------------------------------------------- |
@@ -49,3 +49,9 @@ permalink: /aboutme/
 聶老師擁有多方面的專長，涵蓋多種編程語言和技術領域。他不僅精通高級編程語言和數據庫技術，還在教育領域，如Scratch、Minecraft和Roblox的教學上具有豐富的經驗。
 
 聶老師將這些專業知識和經驗應用到課程中，確保學生能夠獲得最佳的學習體驗和實用技能。
+
+### 相關文件
+
+- [畢業證書]({{site.baseurl}}/assets/images/YeuPerngNiehPhDCertificate.png)
+- 駐英國辦事處學歷認證文件: [頁1]({{site.baseurl}}/assets/images/manchester_phd_1.png),[頁2]({{site.baseurl}}/assets/images/manchester_phd_2.png)
+- [警察刑事紀錄證明(良民証)]({{site.baseurl}}/assets/images/ypn_police_record.png)
