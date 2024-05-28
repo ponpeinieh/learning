@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 聯繫我們
+permalink: /contact/
 ---
 
 <div class="contact-container">

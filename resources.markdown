@@ -1,9 +1,18 @@
 ---
 layout: default
 title: 資源
+permalink: /resources/
 ---
 <div class="resources-container">
   <h2>{{ page.title }}</h2>
+  <div class="section">
+    <h3>社交媒體</h3>
+    <ul>
+      <li><a href="https://www.youtube.com/channel/UC8FFtzUAilehzTkpOt0wuvA" target="_blank">聶老師的 YouTube 頻道</a></li>
+      <li><a href="https://www.facebook.com/groups/824022176196285/" target="_blank">AP運算工作室的臉書社團</a></li>
+    </ul>
+    <p>歡迎訪問我們的社交媒體頁面以獲取更多有用的資源和信息。</p>
+  </div>
   <div class="section">
     <h3>錄製的課程影片</h3>
      <div class="video-row">

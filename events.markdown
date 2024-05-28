@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 活動
+permalink: /events/
 ---
 
 <div class="events-container">

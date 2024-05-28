@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 剪影
+permalink: /gallery/
 ---
 
 <div class="gallery-container">

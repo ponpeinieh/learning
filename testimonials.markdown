@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 推薦語
+permalink: /testimonials/
 ---
 <div class="feedback-container">
   <h2>課程教學評語與推薦</h2>

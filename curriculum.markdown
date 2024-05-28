@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 課程大綱
+permalink: /curriculum/
 ---
 
 ## AP運算工作室的訓練課程
