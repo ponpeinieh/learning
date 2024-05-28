@@ -18,14 +18,14 @@
   rating: 5
   comment: >
     課程內容稍微有點難，但聶老師講解得很詳細。即使有些部分比較複雜，老師也會耐心地拆解，逐步引導我們理解和掌握。
-  photo: /uploads/crocodile.png
+  photo: /uploads/avatar.png
 - name: 劉瑾謙
   email: lago1432.jp@gmail.com
   courses: C/C++, Python
   rating: 5
   comment: >
     老師對待學生很尊重，讓我們感到很舒適。不論是課堂上的提問還是課後的輔導，老師都能夠給予我們充分的尊重和關心。
-  photo: /uploads/crocodile.png
+  photo: /uploads/avatar.png
 - name: 邱昱閔
   email: a35124768a@gmail.com
   courses: Python
@@ -39,14 +39,14 @@
   rating: 5
   comment: >
     老師能夠靈活應對我的發問，課堂效果很好。無論是課堂上的即興提問還是課後的討論，他都能夠給出專業的解答，讓我在學習上有很大的收穫。
-  photo: /uploads/crocodile.png
+  photo: /uploads/avatar.png
 - name: 劉婉瑄
   email: yami920719@gmail.com
   courses: mblock
   rating: 5
   comment: >
     老師在課堂上對學生很尊重，上課時感覺很愉快。不論是課堂上碰到的問題或是課後作業，老師都花時間與耐心輔助我們解決。
-  photo: /uploads/crocodile.png
+  photo: /uploads/avatar.png
 - name: 陳雅伶
   email: liguangchen003@gmail.com
   courses: Java
