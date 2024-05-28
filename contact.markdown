@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div class="contact-container">
-  <h2>聯絡我們</h2>
+  <h2>聯繫我們</h2>
   <div class="contact-info">
     <p><strong>Email:</strong> <a href="mailto:apcomputingstudio@gmail.com">apcomputingstudio@gmail.com</a></p>
     <p><strong>地址:</strong> 臺中市北屯區崇德六路88號〖AP運算工作室〗</p>
