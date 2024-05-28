@@ -21,7 +21,7 @@ permalink: /aboutme/
 | **雷歐工具** - 總經理                           |
 | **巨匠電腦** - 程式認證課程講師                  |
 
-聶老師以理工背景為基礎，從大學四年級的專題到博士班的論文，研究領域集中於物理化學中的結晶學。他研究固態物質和蛋白質的3D結構，並經常撰寫程式碼（如Fortran、C、Perl、Shell script等）用於結晶學繞射數據的分析。他的多篇研究成果發表在國際知名期刊上，以下是部分鏈接：
+聶老師以理工背景為基礎，從大學四年級的專題到博士班的論文([英國曼徹斯特大學圖書舘藏記錄鏈接](https://www.librarysearch.manchester.ac.uk/permalink/44MAN_INST/1r887gn/alma9912292404401631))，研究領域集中於物理化學中的結晶學。他研究固態物質和蛋白質的3D結構，並經常撰寫程式碼（如Fortran、C、Perl、Shell script等）用於結晶學繞射數據的分析。他的多篇研究成果發表在國際知名期刊上，以下是部分鏈接：
 
 1. Wang, S.L., Wang, P.C., & Nieh, Y.-P. (1990). "Structure determination of LiMoP2O7 from multiphase powder X-ray diffraction data." *J. Appl. Cryst.*, 23, 520-525. [摘要](https://journals.iucr.org/paper?S0021889890008123)
 
