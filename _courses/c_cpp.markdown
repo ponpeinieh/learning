@@ -76,6 +76,14 @@ sort_order: 3
 | 9 | 物件導向語法 |
 | 10 | 檔案存取 |
 
+
+## 課程試聽影片
+
+- 入門課程，内容包括: (1) C語言的歷史與現況，(2) 輸入及輸出等基本操作.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7bNMebbS9sw?si=dH5sDUKurYyqUyOD" frameborder="0" allowfullscreen></iframe>
+
+
 ## 詳細教學内容大綱 
 
 ## 第一階段：入門課程（20小時）
