@@ -41,8 +41,12 @@ permalink: /programs/
 
 我們的課程設計融合了實際應用和情感培養，讓學生在學習編程的同時，也能夠體驗到成就感和樂趣。通過這些課程，學生不僅可以掌握各種編程語言和技術，還可以培養問題解決能力、創造力和團隊合作精神，為未來的學習和職業生涯奠定堅實的基礎。
 
-各個階段適合學習的課程內容如下圖所示： 
+各個階段適合學習的課程內容： 
 ![image]({{ site.baseurl }}/assets/images/classes_audiences_levels.png)
+
+
+編程課程建議的學習路徑: 
+![image]({{ site.baseurl }}/assets/images/courses_learning_pathway.png)
 
 
 [//]: 課程：

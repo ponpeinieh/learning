@@ -1,4 +1,10 @@
 photos:
+  - src: "studio/studio_inside_1.jpg"
+    alt: "工作室上課教室環境"
+    title: "工作室上課教室環境"
+  - src: "studio/studio_inside_2.jpg"
+    alt: "工作室上課教室環境"
+    title: "工作室上課教室環境"
   - src: "studio/studio1.jpg"
     alt: "Scratch體驗課程"
     title: "Scratch體驗課程"

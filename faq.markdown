@@ -50,3 +50,7 @@ permalink: /faq/
   
 ![image]({{ site.baseurl }}/assets/images/classes_audiences_levels.png)
 
+- **課程的學習路徑是怎樣的？**
+  - 回答: 我們的課程設計有明確的學習路徑，旨在幫助學生系統性地掌握知識和技能。以下是我們課程建議的學習路徑圖:
+
+![image]({{ site.baseurl }}/assets/images/courses_learning_pathway.png)
